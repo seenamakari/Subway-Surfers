@@ -1,0 +1,11 @@
+{
+  "name": "subway-surfers",
+  "version": "1.0.0",
+  "description": "This is an implementation of popular game Subway Surfers using WebGL and three.js",
+  "main": "MTLLoader.js",
+  "scripts": {
+    "test": "run index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
